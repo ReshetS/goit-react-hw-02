@@ -1,0 +1,9 @@
+.optionsWrapper {
+  display: flex;
+  gap: 4px;
+  margin: 20px 0;
+}
+
+.btn {
+  width: 120px;
+}
